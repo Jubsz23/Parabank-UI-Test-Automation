@@ -1,7 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Parabank-nl-UI%20Test%20Automation&textBg=false&fontAlign=50&section=header"/>
 
+# WEB
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a543b387-0008-4752-9c76-cd183ae3d075" alt="image" />
+  <img src="https://github.com/user-attachments/assets/a543b387-0008-4752-9c76-cd183ae3d075" alt="image" width="100"/>
 </p>
 
 <div align="left" />
